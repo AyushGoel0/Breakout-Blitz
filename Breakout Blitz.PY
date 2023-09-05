@@ -69,7 +69,7 @@ def draw_text(text, font, color, x, y):
     screen.blit(text_surface, text_rect)
 
 # Bricks properties
-BRICK_WIDTH = 80
+BRICK_WIDTH = 89
 BRICK_HEIGHT = 30
 BRICK_GAP = 10
 BRICK_ROWS = 5
